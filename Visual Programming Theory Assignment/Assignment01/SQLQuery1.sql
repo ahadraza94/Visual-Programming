@@ -1,0 +1,6 @@
+SELECT TOP (1000) [DepartmentName]
+      ,[DepartmentLocation]
+      ,[DepartmentAddress]
+      ,[DepartmentAdmin]
+      ,[Occupation]
+  FROM [Assignment01].[dbo].[database01]
