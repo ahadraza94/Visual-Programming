@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CourseManagementSystemModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="CourseID" />
+    </Key>
+    <Property Name="CourseID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CourseName" Type="varchar" MaxLength="50" />
+    <Property Name="CourseRegistration" Type="varchar" MaxLength="50" />
+    <Property Name="Course_CreditHour" Type="int" />
+    <Property Name="Course_Professor" Type="varchar" MaxLength="50" />
+    <Property Name="Course_Supervisor" Type="varchar" MaxLength="50" />
+    <Property Name="Student_RollNo" Type="varchar" MaxLength="50" />
+    <Property Name="Student_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Student_Department" Type="varchar" MaxLength="50" />
+    <Property Name="Student_Shift" Type="varchar" MaxLength="50" />
+    <Property Name="Student_Registration" Type="varchar" MaxLength="50" />
+    <Property Name="Student_CGPA" Type="float" />
+    <Property Name="Student_Gender" Type="varchar" MaxLength="50" />
+    <Property Name="Student_Program" Type="varchar" MaxLength="50" />
+    <Property Name="Student_Section" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="CourseManagementSystemModelStoreContainer">
+    <EntitySet Name="Course" EntityType="Self.Course" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

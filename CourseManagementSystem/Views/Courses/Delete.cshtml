@@ -1,0 +1,167 @@
+﻿@model CourseManagementSystem.Models.Course
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+
+        h4 {
+            color: #333;
+        }
+
+        .dl-horizontal dt {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .dl-horizontal dd {
+            margin-left: 100px; /* Adjust according to your layout */
+            margin-bottom: 10px;
+        }
+    </style>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <h3>Are you sure you want to delete this?</h3>
+    <div>
+        <h4>Course</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseRegistration)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseRegistration)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Course_CreditHour)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Course_CreditHour)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Course_Professor)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Course_Professor)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Course_Supervisor)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Course_Supervisor)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Student_RollNo)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Student_RollNo)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Student_Name)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Student_Name)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Student_Department)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Student_Department)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Student_Shift)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Student_Shift)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Student_Registration)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Student_Registration)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Student_CGPA)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Student_CGPA)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Student_Gender)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Student_Gender)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Student_Program)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Student_Program)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Student_Section)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Student_Section)
+            </dd>
+    
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-default" /> |
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CourseManagementSystemModelStoreContainer" CdmEntityContainer="CourseManagementSystemEntities">
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="CourseManagementSystemModel.Course">
+        <MappingFragment StoreEntitySet="Course">
+          <ScalarProperty Name="CourseID" ColumnName="CourseID" />
+          <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+          <ScalarProperty Name="CourseRegistration" ColumnName="CourseRegistration" />
+          <ScalarProperty Name="Course_CreditHour" ColumnName="Course_CreditHour" />
+          <ScalarProperty Name="Course_Professor" ColumnName="Course_Professor" />
+          <ScalarProperty Name="Course_Supervisor" ColumnName="Course_Supervisor" />
+          <ScalarProperty Name="Student_RollNo" ColumnName="Student_RollNo" />
+          <ScalarProperty Name="Student_Name" ColumnName="Student_Name" />
+          <ScalarProperty Name="Student_Department" ColumnName="Student_Department" />
+          <ScalarProperty Name="Student_Shift" ColumnName="Student_Shift" />
+          <ScalarProperty Name="Student_Registration" ColumnName="Student_Registration" />
+          <ScalarProperty Name="Student_CGPA" ColumnName="Student_CGPA" />
+          <ScalarProperty Name="Student_Gender" ColumnName="Student_Gender" />
+          <ScalarProperty Name="Student_Program" ColumnName="Student_Program" />
+          <ScalarProperty Name="Student_Section" ColumnName="Student_Section" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

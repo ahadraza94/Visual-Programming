@@ -1,0 +1,262 @@
+﻿@model IEnumerable<CourseManagementSystem.Models.Course>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <style>
+
+        body {
+            background-color: #f8f9fa;
+            padding: 20px;
+        }
+
+        .form-horizontal {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-control {
+            border-radius: 0;
+        }
+
+        .btn-default {
+            background-color: #007bff;
+            color: #fff;
+            border-radius: 0;
+        }
+
+            .btn-default:hover {
+                background-color: #0056b3;
+                color: #fff;
+            }
+
+        .text-danger {
+            color: #dc3545;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+
+        h4 {
+            color: #333;
+        }
+
+        .form-horizontal {
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+            .form-group label {
+                font-weight: bold;
+                display: block;
+                margin-bottom: 5px;
+            }
+
+            .form-group .col-md-10 {
+                width: 70%;
+            }
+
+        .form-control {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+            .btn:hover {
+                background-color: #0056b3;
+            }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+            .table th, .table td {
+                padding: 10px;
+                border: 1px solid #ddd;
+            }
+
+            .table th {
+                background-color: #007bff;
+                color: #fff;
+            }
+
+            .table td {
+                background-color: #fff;
+            }
+
+            .table tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            .table tr:hover {
+                background-color: #ddd;
+            }
+
+            .table td a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                .table td a:hover {
+                    text-decoration: underline;
+                }
+
+                        /* Styles for action links */
+            .table td a {
+                color: #007bff; /* Link color */
+                text-decoration: none; /* Remove underline */
+                margin-right: 5px; /* Add space between links */
+                transition: color 0.3s; /* Smooth color transition */
+            }
+
+            /* Hover effect */
+            .table td a:hover {
+                text-decoration: underline; /* Underline on hover */
+                color: #0056b3; /* Darker color on hover */
+            }
+
+    </style>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseRegistration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course_CreditHour)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course_Professor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course_Supervisor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_RollNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_Department)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_Shift)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_Registration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_CGPA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_Program)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_Section)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseRegistration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course_CreditHour)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course_Professor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course_Supervisor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_RollNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_Department)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_Shift)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_Registration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_CGPA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_Program)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_Section)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.CourseID }) |
+                @Html.ActionLink("Details", "Details", new { id=item.CourseID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.CourseID })
+            </td>
+        </tr>
+    }
+    </table>
+    
+
+</body>
+</html>
