@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahad Raza\\Desktop\\Lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5D850-C9C1-4C81-A597-B6DC2989D198}|Lab08.csproj|c:\\users\\ahad raza\\desktop\\lab08\\mainform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A5D850-C9C1-4C81-A597-B6DC2989D198}|Lab08.csproj|solutionrelative:mainform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab08\\CrudForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5D850-C9C1-4C81-A597-B6DC2989D198}|Lab08.csproj|c:\\users\\ahad raza\\desktop\\lab08\\mainform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23A5D850-C9C1-4C81-A597-B6DC2989D198}|Lab08.csproj|solutionrelative:mainform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\Lab08\\MainForm.aspx.cs",
+              "RelativeDocumentMoniker": "MainForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\Lab08\\MainForm.aspx.cs",
+              "RelativeToolTip": "MainForm.aspx.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAwwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:16:15.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrudForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab08\\CrudForm.aspx.cs",
+              "RelativeDocumentMoniker": "..\\VP(LAB)\\Lab08\\CrudForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab08\\CrudForm.aspx.cs",
+              "RelativeToolTip": "..\\VP(LAB)\\Lab08\\CrudForm.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:16:22.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\Lab08\\MainForm.aspx",
+              "RelativeDocumentMoniker": "MainForm.aspx",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\Lab08\\MainForm.aspx",
+              "RelativeToolTip": "MainForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-27T11:14:55.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

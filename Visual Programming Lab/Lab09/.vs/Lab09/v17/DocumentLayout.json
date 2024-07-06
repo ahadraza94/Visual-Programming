@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|c:\\users\\ahad raza\\desktop\\vp(lab)\\lab09\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|solutionrelative:loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|c:\\users\\ahad raza\\desktop\\vp(lab)\\lab09\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|solutionrelative:mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|c:\\users\\ahad raza\\desktop\\vp(lab)\\lab09\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|solutionrelative:loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|c:\\users\\ahad raza\\desktop\\vp(lab)\\lab09\\registrationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|solutionrelative:registrationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|c:\\users\\ahad raza\\desktop\\vp(lab)\\lab09\\registrationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|solutionrelative:registrationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|c:\\users\\ahad raza\\desktop\\vp(lab)\\lab09\\registrationform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3366BEA7-F713-4DC9-A0BD-A6107102F7D9}|Lab09.csproj|solutionrelative:registrationform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\RegistrationForm.aspx.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\RegistrationForm.aspx.cs",
+              "RelativeToolTip": "RegistrationForm.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:30:38.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\RegistrationForm.aspx",
+              "RelativeDocumentMoniker": "RegistrationForm.aspx",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\RegistrationForm.aspx",
+              "RelativeToolTip": "RegistrationForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T10:01:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationForm.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\RegistrationForm.aspx.designer.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\RegistrationForm.aspx.designer.cs",
+              "RelativeToolTip": "RegistrationForm.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:52:48.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\LoginForm.aspx.cs",
+              "RelativeDocumentMoniker": "LoginForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\LoginForm.aspx.cs",
+              "RelativeToolTip": "LoginForm.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA2wDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:20:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\MainPage.aspx",
+              "RelativeDocumentMoniker": "MainPage.aspx",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\MainPage.aspx",
+              "RelativeToolTip": "MainPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T11:29:54.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "LoginForm.aspx",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\VP(LAB)\\Lab09\\LoginForm.aspx",
+              "RelativeToolTip": "LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T11:19:06.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

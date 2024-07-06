@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSCS-36(A)\\Visual Programming\\Visual Programming Lab\\2-5-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2F971-27DD-47B8-B150-941791EB0029}|2-5-2024.csproj|d:\\bscs-36(a)\\visual programming\\visual programming lab\\2-5-2024\\mainpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE2F971-27DD-47B8-B150-941791EB0029}|2-5-2024.csproj|solutionrelative:mainpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE2F971-27DD-47B8-B150-941791EB0029}|2-5-2024.csproj|D:\\BSCS-36(A)\\Visual Programming\\Visual Programming Lab\\2-5-2024\\mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4CE2F971-27DD-47B8-B150-941791EB0029}|2-5-2024.csproj|solutionrelative:mainpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 376,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.aspx.cs",
+              "DocumentMoniker": "D:\\BSCS-36(A)\\Visual Programming\\Visual Programming Lab\\2-5-2024\\MainPage.aspx.cs",
+              "RelativeDocumentMoniker": "MainPage.aspx.cs",
+              "ToolTip": "D:\\BSCS-36(A)\\Visual Programming\\Visual Programming Lab\\2-5-2024\\MainPage.aspx.cs",
+              "RelativeToolTip": "MainPage.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:56:21.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.aspx",
+              "DocumentMoniker": "D:\\BSCS-36(A)\\Visual Programming\\Visual Programming Lab\\2-5-2024\\MainPage.aspx",
+              "RelativeDocumentMoniker": "MainPage.aspx",
+              "ToolTip": "D:\\BSCS-36(A)\\Visual Programming\\Visual Programming Lab\\2-5-2024\\MainPage.aspx",
+              "RelativeToolTip": "MainPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T14:55:42.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

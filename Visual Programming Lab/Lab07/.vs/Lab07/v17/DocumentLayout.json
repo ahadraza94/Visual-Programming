@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahad Raza\\Desktop\\Lab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E21A355D-F566-41C3-92A3-D1D4AF9577D7}|Lab07.csproj|c:\\users\\ahad raza\\desktop\\lab07\\mainform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21A355D-F566-41C3-92A3-D1D4AF9577D7}|Lab07.csproj|solutionrelative:mainform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21A355D-F566-41C3-92A3-D1D4AF9577D7}|Lab07.csproj|c:\\users\\ahad raza\\desktop\\lab07\\dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21A355D-F566-41C3-92A3-D1D4AF9577D7}|Lab07.csproj|solutionrelative:dataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21A355D-F566-41C3-92A3-D1D4AF9577D7}|Lab07.csproj|c:\\users\\ahad raza\\desktop\\lab07\\businessclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21A355D-F566-41C3-92A3-D1D4AF9577D7}|Lab07.csproj|solutionrelative:businessclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21A355D-F566-41C3-92A3-D1D4AF9577D7}|Lab07.csproj|c:\\users\\ahad raza\\desktop\\lab07\\mainform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E21A355D-F566-41C3-92A3-D1D4AF9577D7}|Lab07.csproj|solutionrelative:mainform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataClass.cs",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\Lab07\\DataClass.cs",
+              "RelativeDocumentMoniker": "DataClass.cs",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\Lab07\\DataClass.cs",
+              "RelativeToolTip": "DataClass.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:17:21.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessClass.cs",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\Lab07\\BusinessClass.cs",
+              "RelativeDocumentMoniker": "BusinessClass.cs",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\Lab07\\BusinessClass.cs",
+              "RelativeToolTip": "BusinessClass.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:16:31.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mainform.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\Lab07\\Mainform.aspx.cs",
+              "RelativeDocumentMoniker": "Mainform.aspx.cs",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\Lab07\\Mainform.aspx.cs",
+              "RelativeToolTip": "Mainform.aspx.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:14:59.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mainform.aspx",
+              "DocumentMoniker": "C:\\Users\\Ahad Raza\\Desktop\\Lab07\\Mainform.aspx",
+              "RelativeDocumentMoniker": "Mainform.aspx",
+              "ToolTip": "C:\\Users\\Ahad Raza\\Desktop\\Lab07\\Mainform.aspx",
+              "RelativeToolTip": "Mainform.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-27T12:09:23.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
